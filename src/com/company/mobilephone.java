@@ -3,7 +3,8 @@ package com.company;
 import java.util.ArrayList;
 
 public class mobilephone {
-
+    private int ahmed = 0 ;
+    private String mohamed ;
     private String phonenumber;
     private ArrayList<contacts> mycontacts;
 
